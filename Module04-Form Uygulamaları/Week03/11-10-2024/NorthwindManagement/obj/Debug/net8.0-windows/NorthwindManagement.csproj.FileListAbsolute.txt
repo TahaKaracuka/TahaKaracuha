@@ -1,0 +1,17 @@
+C:\GitHub\InfoTech-MSCD-ENE-6\Module04-Form Uygulamaları\Week03\11-10-2024\NorthwindManagement\bin\Debug\net8.0-windows\NorthwindManagement.exe
+C:\GitHub\InfoTech-MSCD-ENE-6\Module04-Form Uygulamaları\Week03\11-10-2024\NorthwindManagement\bin\Debug\net8.0-windows\NorthwindManagement.deps.json
+C:\GitHub\InfoTech-MSCD-ENE-6\Module04-Form Uygulamaları\Week03\11-10-2024\NorthwindManagement\bin\Debug\net8.0-windows\NorthwindManagement.runtimeconfig.json
+C:\GitHub\InfoTech-MSCD-ENE-6\Module04-Form Uygulamaları\Week03\11-10-2024\NorthwindManagement\bin\Debug\net8.0-windows\NorthwindManagement.dll
+C:\GitHub\InfoTech-MSCD-ENE-6\Module04-Form Uygulamaları\Week03\11-10-2024\NorthwindManagement\bin\Debug\net8.0-windows\NorthwindManagement.pdb
+C:\GitHub\InfoTech-MSCD-ENE-6\Module04-Form Uygulamaları\Week03\11-10-2024\NorthwindManagement\obj\Debug\net8.0-windows\NorthwindManagement.MainForm.resources
+C:\GitHub\InfoTech-MSCD-ENE-6\Module04-Form Uygulamaları\Week03\11-10-2024\NorthwindManagement\obj\Debug\net8.0-windows\NorthwindManagement.csproj.GenerateResource.cache
+C:\GitHub\InfoTech-MSCD-ENE-6\Module04-Form Uygulamaları\Week03\11-10-2024\NorthwindManagement\obj\Debug\net8.0-windows\NorthwindManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\InfoTech-MSCD-ENE-6\Module04-Form Uygulamaları\Week03\11-10-2024\NorthwindManagement\obj\Debug\net8.0-windows\NorthwindManagement.AssemblyInfoInputs.cache
+C:\GitHub\InfoTech-MSCD-ENE-6\Module04-Form Uygulamaları\Week03\11-10-2024\NorthwindManagement\obj\Debug\net8.0-windows\NorthwindManagement.AssemblyInfo.cs
+C:\GitHub\InfoTech-MSCD-ENE-6\Module04-Form Uygulamaları\Week03\11-10-2024\NorthwindManagement\obj\Debug\net8.0-windows\NorthwindManagement.csproj.CoreCompileInputs.cache
+C:\GitHub\InfoTech-MSCD-ENE-6\Module04-Form Uygulamaları\Week03\11-10-2024\NorthwindManagement\obj\Debug\net8.0-windows\NorthwindManagement.sourcelink.json
+C:\GitHub\InfoTech-MSCD-ENE-6\Module04-Form Uygulamaları\Week03\11-10-2024\NorthwindManagement\obj\Debug\net8.0-windows\NorthwindManagement.dll
+C:\GitHub\InfoTech-MSCD-ENE-6\Module04-Form Uygulamaları\Week03\11-10-2024\NorthwindManagement\obj\Debug\net8.0-windows\refint\NorthwindManagement.dll
+C:\GitHub\InfoTech-MSCD-ENE-6\Module04-Form Uygulamaları\Week03\11-10-2024\NorthwindManagement\obj\Debug\net8.0-windows\NorthwindManagement.pdb
+C:\GitHub\InfoTech-MSCD-ENE-6\Module04-Form Uygulamaları\Week03\11-10-2024\NorthwindManagement\obj\Debug\net8.0-windows\NorthwindManagement.genruntimeconfig.cache
+C:\GitHub\InfoTech-MSCD-ENE-6\Module04-Form Uygulamaları\Week03\11-10-2024\NorthwindManagement\obj\Debug\net8.0-windows\ref\NorthwindManagement.dll

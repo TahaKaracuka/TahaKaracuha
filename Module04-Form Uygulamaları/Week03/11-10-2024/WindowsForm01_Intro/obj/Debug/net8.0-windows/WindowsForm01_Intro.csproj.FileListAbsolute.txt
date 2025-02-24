@@ -1,0 +1,17 @@
+C:\GitHub\InfoTech-MSCD-ENE-6\Module04-Form Uygulamaları\Week03\11-10-2024\WindowsForm01_Intro\bin\Debug\net8.0-windows\WindowsForm01_Intro.exe
+C:\GitHub\InfoTech-MSCD-ENE-6\Module04-Form Uygulamaları\Week03\11-10-2024\WindowsForm01_Intro\bin\Debug\net8.0-windows\WindowsForm01_Intro.deps.json
+C:\GitHub\InfoTech-MSCD-ENE-6\Module04-Form Uygulamaları\Week03\11-10-2024\WindowsForm01_Intro\bin\Debug\net8.0-windows\WindowsForm01_Intro.runtimeconfig.json
+C:\GitHub\InfoTech-MSCD-ENE-6\Module04-Form Uygulamaları\Week03\11-10-2024\WindowsForm01_Intro\bin\Debug\net8.0-windows\WindowsForm01_Intro.dll
+C:\GitHub\InfoTech-MSCD-ENE-6\Module04-Form Uygulamaları\Week03\11-10-2024\WindowsForm01_Intro\bin\Debug\net8.0-windows\WindowsForm01_Intro.pdb
+C:\GitHub\InfoTech-MSCD-ENE-6\Module04-Form Uygulamaları\Week03\11-10-2024\WindowsForm01_Intro\obj\Debug\net8.0-windows\WindowsForm01_Intro.Form1.resources
+C:\GitHub\InfoTech-MSCD-ENE-6\Module04-Form Uygulamaları\Week03\11-10-2024\WindowsForm01_Intro\obj\Debug\net8.0-windows\WindowsForm01_Intro.csproj.GenerateResource.cache
+C:\GitHub\InfoTech-MSCD-ENE-6\Module04-Form Uygulamaları\Week03\11-10-2024\WindowsForm01_Intro\obj\Debug\net8.0-windows\WindowsForm01_Intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\InfoTech-MSCD-ENE-6\Module04-Form Uygulamaları\Week03\11-10-2024\WindowsForm01_Intro\obj\Debug\net8.0-windows\WindowsForm01_Intro.AssemblyInfoInputs.cache
+C:\GitHub\InfoTech-MSCD-ENE-6\Module04-Form Uygulamaları\Week03\11-10-2024\WindowsForm01_Intro\obj\Debug\net8.0-windows\WindowsForm01_Intro.AssemblyInfo.cs
+C:\GitHub\InfoTech-MSCD-ENE-6\Module04-Form Uygulamaları\Week03\11-10-2024\WindowsForm01_Intro\obj\Debug\net8.0-windows\WindowsForm01_Intro.csproj.CoreCompileInputs.cache
+C:\GitHub\InfoTech-MSCD-ENE-6\Module04-Form Uygulamaları\Week03\11-10-2024\WindowsForm01_Intro\obj\Debug\net8.0-windows\WindowsForm01_Intro.sourcelink.json
+C:\GitHub\InfoTech-MSCD-ENE-6\Module04-Form Uygulamaları\Week03\11-10-2024\WindowsForm01_Intro\obj\Debug\net8.0-windows\WindowsForm01_Intro.dll
+C:\GitHub\InfoTech-MSCD-ENE-6\Module04-Form Uygulamaları\Week03\11-10-2024\WindowsForm01_Intro\obj\Debug\net8.0-windows\refint\WindowsForm01_Intro.dll
+C:\GitHub\InfoTech-MSCD-ENE-6\Module04-Form Uygulamaları\Week03\11-10-2024\WindowsForm01_Intro\obj\Debug\net8.0-windows\WindowsForm01_Intro.pdb
+C:\GitHub\InfoTech-MSCD-ENE-6\Module04-Form Uygulamaları\Week03\11-10-2024\WindowsForm01_Intro\obj\Debug\net8.0-windows\WindowsForm01_Intro.genruntimeconfig.cache
+C:\GitHub\InfoTech-MSCD-ENE-6\Module04-Form Uygulamaları\Week03\11-10-2024\WindowsForm01_Intro\obj\Debug\net8.0-windows\ref\WindowsForm01_Intro.dll

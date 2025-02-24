@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GitHub\\InfoTech-MSCD-ENE-6\\Module04-Form Uygulamalar\u0131\\Week04\\14-10-2024\\NorthwindManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E49196-2AB0-4FE4-8CF6-5ADC2170E8C6}|NorthwindManagement.csproj|c:\\github\\infotech-mscd-ene-6\\module04-form uygulamalar\u0131\\week04\\14-10-2024\\northwindmanagement\\dataaccesslayer\\productdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E49196-2AB0-4FE4-8CF6-5ADC2170E8C6}|NorthwindManagement.csproj|solutionrelative:dataaccesslayer\\productdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E49196-2AB0-4FE4-8CF6-5ADC2170E8C6}|NorthwindManagement.csproj|c:\\github\\infotech-mscd-ene-6\\module04-form uygulamalar\u0131\\week04\\14-10-2024\\northwindmanagement\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E49196-2AB0-4FE4-8CF6-5ADC2170E8C6}|NorthwindManagement.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E49196-2AB0-4FE4-8CF6-5ADC2170E8C6}|NorthwindManagement.csproj|c:\\github\\infotech-mscd-ene-6\\module04-form uygulamalar\u0131\\week04\\14-10-2024\\northwindmanagement\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E49196-2AB0-4FE4-8CF6-5ADC2170E8C6}|NorthwindManagement.csproj|solutionrelative:mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E49196-2AB0-4FE4-8CF6-5ADC2170E8C6}|NorthwindManagement.csproj|c:\\github\\infotech-mscd-ene-6\\module04-form uygulamalar\u0131\\week04\\14-10-2024\\northwindmanagement\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E8E49196-2AB0-4FE4-8CF6-5ADC2170E8C6}|NorthwindManagement.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E49196-2AB0-4FE4-8CF6-5ADC2170E8C6}|NorthwindManagement.csproj|c:\\github\\infotech-mscd-ene-6\\module04-form uygulamalar\u0131\\week04\\14-10-2024\\northwindmanagement\\dataaccesslayer\\categorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E49196-2AB0-4FE4-8CF6-5ADC2170E8C6}|NorthwindManagement.csproj|solutionrelative:dataaccesslayer\\categorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E49196-2AB0-4FE4-8CF6-5ADC2170E8C6}|NorthwindManagement.csproj|c:\\github\\infotech-mscd-ene-6\\module04-form uygulamalar\u0131\\week04\\14-10-2024\\northwindmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E49196-2AB0-4FE4-8CF6-5ADC2170E8C6}|NorthwindManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductDAL.cs",
+              "DocumentMoniker": "C:\\GitHub\\InfoTech-MSCD-ENE-6\\Module04-Form Uygulamalar\u0131\\Week04\\14-10-2024\\NorthwindManagement\\DataAccessLayer\\ProductDAL.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\ProductDAL.cs",
+              "ToolTip": "C:\\GitHub\\InfoTech-MSCD-ENE-6\\Module04-Form Uygulamalar\u0131\\Week04\\14-10-2024\\NorthwindManagement\\DataAccessLayer\\ProductDAL.cs",
+              "RelativeToolTip": "DataAccessLayer\\ProductDAL.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAkwDsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T11:16:19.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryDAL.cs",
+              "DocumentMoniker": "C:\\GitHub\\InfoTech-MSCD-ENE-6\\Module04-Form Uygulamalar\u0131\\Week04\\14-10-2024\\NorthwindManagement\\DataAccessLayer\\CategoryDAL.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\CategoryDAL.cs",
+              "ToolTip": "C:\\GitHub\\InfoTech-MSCD-ENE-6\\Module04-Form Uygulamalar\u0131\\Week04\\14-10-2024\\NorthwindManagement\\DataAccessLayer\\CategoryDAL.cs",
+              "RelativeToolTip": "DataAccessLayer\\CategoryDAL.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T10:01:25.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\GitHub\\InfoTech-MSCD-ENE-6\\Module04-Form Uygulamalar\u0131\\Week04\\14-10-2024\\NorthwindManagement\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\GitHub\\InfoTech-MSCD-ENE-6\\Module04-Form Uygulamalar\u0131\\Week04\\14-10-2024\\NorthwindManagement\\MainForm.cs [Design]",
+              "RelativeToolTip": "MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T09:27:50.312Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\GitHub\\InfoTech-MSCD-ENE-6\\Module04-Form Uygulamalar\u0131\\Week04\\14-10-2024\\NorthwindManagement\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "MainForm.Designer.cs",
+              "ToolTip": "C:\\GitHub\\InfoTech-MSCD-ENE-6\\Module04-Form Uygulamalar\u0131\\Week04\\14-10-2024\\NorthwindManagement\\MainForm.Designer.cs",
+              "RelativeToolTip": "MainForm.Designer.cs",
+              "ViewState": "AgIAAEkBAAAAAAAAAAArwAMBAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T09:27:26.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\GitHub\\InfoTech-MSCD-ENE-6\\Module04-Form Uygulamalar\u0131\\Week04\\14-10-2024\\NorthwindManagement\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\GitHub\\InfoTech-MSCD-ENE-6\\Module04-Form Uygulamalar\u0131\\Week04\\14-10-2024\\NorthwindManagement\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAuwFYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T07:56:14.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GitHub\\InfoTech-MSCD-ENE-6\\Module04-Form Uygulamalar\u0131\\Week04\\14-10-2024\\NorthwindManagement\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\GitHub\\InfoTech-MSCD-ENE-6\\Module04-Form Uygulamalar\u0131\\Week04\\14-10-2024\\NorthwindManagement\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T07:55:23.305Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
