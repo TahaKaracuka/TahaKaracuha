@@ -1,0 +1,15 @@
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\30-09-2024\Lesson05_VeriYapilariveDegiskenler\bin\Debug\net8.0\Lesson05_VeriYapilariveDegiskenler.exe
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\30-09-2024\Lesson05_VeriYapilariveDegiskenler\bin\Debug\net8.0\Lesson05_VeriYapilariveDegiskenler.deps.json
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\30-09-2024\Lesson05_VeriYapilariveDegiskenler\bin\Debug\net8.0\Lesson05_VeriYapilariveDegiskenler.runtimeconfig.json
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\30-09-2024\Lesson05_VeriYapilariveDegiskenler\bin\Debug\net8.0\Lesson05_VeriYapilariveDegiskenler.dll
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\30-09-2024\Lesson05_VeriYapilariveDegiskenler\bin\Debug\net8.0\Lesson05_VeriYapilariveDegiskenler.pdb
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\30-09-2024\Lesson05_VeriYapilariveDegiskenler\obj\Debug\net8.0\Lesson05_VeriYapilariveDegiskenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\30-09-2024\Lesson05_VeriYapilariveDegiskenler\obj\Debug\net8.0\Lesson05_VeriYapilariveDegiskenler.AssemblyInfoInputs.cache
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\30-09-2024\Lesson05_VeriYapilariveDegiskenler\obj\Debug\net8.0\Lesson05_VeriYapilariveDegiskenler.AssemblyInfo.cs
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\30-09-2024\Lesson05_VeriYapilariveDegiskenler\obj\Debug\net8.0\Lesson05_VeriYapilariveDegiskenler.csproj.CoreCompileInputs.cache
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\30-09-2024\Lesson05_VeriYapilariveDegiskenler\obj\Debug\net8.0\Lesson05_VeriYapilariveDegiskenler.sourcelink.json
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\30-09-2024\Lesson05_VeriYapilariveDegiskenler\obj\Debug\net8.0\Lesson05_VeriYapilariveDegiskenler.dll
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\30-09-2024\Lesson05_VeriYapilariveDegiskenler\obj\Debug\net8.0\refint\Lesson05_VeriYapilariveDegiskenler.dll
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\30-09-2024\Lesson05_VeriYapilariveDegiskenler\obj\Debug\net8.0\Lesson05_VeriYapilariveDegiskenler.pdb
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\30-09-2024\Lesson05_VeriYapilariveDegiskenler\obj\Debug\net8.0\Lesson05_VeriYapilariveDegiskenler.genruntimeconfig.cache
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\30-09-2024\Lesson05_VeriYapilariveDegiskenler\obj\Debug\net8.0\ref\Lesson05_VeriYapilariveDegiskenler.dll

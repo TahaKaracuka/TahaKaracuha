@@ -1,0 +1,15 @@
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\04-10-2024\Lesson18_Miras_Inheritance\bin\Debug\net8.0\Lesson18_Miras_Inheritance.exe
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\04-10-2024\Lesson18_Miras_Inheritance\bin\Debug\net8.0\Lesson18_Miras_Inheritance.deps.json
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\04-10-2024\Lesson18_Miras_Inheritance\bin\Debug\net8.0\Lesson18_Miras_Inheritance.runtimeconfig.json
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\04-10-2024\Lesson18_Miras_Inheritance\bin\Debug\net8.0\Lesson18_Miras_Inheritance.dll
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\04-10-2024\Lesson18_Miras_Inheritance\bin\Debug\net8.0\Lesson18_Miras_Inheritance.pdb
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\04-10-2024\Lesson18_Miras_Inheritance\obj\Debug\net8.0\Lesson18_Miras_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\04-10-2024\Lesson18_Miras_Inheritance\obj\Debug\net8.0\Lesson18_Miras_Inheritance.AssemblyInfoInputs.cache
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\04-10-2024\Lesson18_Miras_Inheritance\obj\Debug\net8.0\Lesson18_Miras_Inheritance.AssemblyInfo.cs
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\04-10-2024\Lesson18_Miras_Inheritance\obj\Debug\net8.0\Lesson18_Miras_Inheritance.csproj.CoreCompileInputs.cache
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\04-10-2024\Lesson18_Miras_Inheritance\obj\Debug\net8.0\Lesson18_Miras_Inheritance.sourcelink.json
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\04-10-2024\Lesson18_Miras_Inheritance\obj\Debug\net8.0\Lesson18_Miras_Inheritance.dll
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\04-10-2024\Lesson18_Miras_Inheritance\obj\Debug\net8.0\refint\Lesson18_Miras_Inheritance.dll
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\04-10-2024\Lesson18_Miras_Inheritance\obj\Debug\net8.0\Lesson18_Miras_Inheritance.pdb
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\04-10-2024\Lesson18_Miras_Inheritance\obj\Debug\net8.0\Lesson18_Miras_Inheritance.genruntimeconfig.cache
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\04-10-2024\Lesson18_Miras_Inheritance\obj\Debug\net8.0\ref\Lesson18_Miras_Inheritance.dll

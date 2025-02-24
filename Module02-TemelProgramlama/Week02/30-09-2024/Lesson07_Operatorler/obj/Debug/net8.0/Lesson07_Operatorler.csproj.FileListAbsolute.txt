@@ -1,0 +1,15 @@
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\30-09-2024\Lesson07_Operatorler\bin\Debug\net8.0\Lesson07_Operatorler.exe
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\30-09-2024\Lesson07_Operatorler\bin\Debug\net8.0\Lesson07_Operatorler.deps.json
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\30-09-2024\Lesson07_Operatorler\bin\Debug\net8.0\Lesson07_Operatorler.runtimeconfig.json
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\30-09-2024\Lesson07_Operatorler\bin\Debug\net8.0\Lesson07_Operatorler.dll
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\30-09-2024\Lesson07_Operatorler\bin\Debug\net8.0\Lesson07_Operatorler.pdb
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\30-09-2024\Lesson07_Operatorler\obj\Debug\net8.0\Lesson07_Operatorler.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\30-09-2024\Lesson07_Operatorler\obj\Debug\net8.0\Lesson07_Operatorler.AssemblyInfoInputs.cache
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\30-09-2024\Lesson07_Operatorler\obj\Debug\net8.0\Lesson07_Operatorler.AssemblyInfo.cs
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\30-09-2024\Lesson07_Operatorler\obj\Debug\net8.0\Lesson07_Operatorler.csproj.CoreCompileInputs.cache
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\30-09-2024\Lesson07_Operatorler\obj\Debug\net8.0\Lesson07_Operatorler.sourcelink.json
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\30-09-2024\Lesson07_Operatorler\obj\Debug\net8.0\Lesson07_Operatorler.dll
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\30-09-2024\Lesson07_Operatorler\obj\Debug\net8.0\refint\Lesson07_Operatorler.dll
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\30-09-2024\Lesson07_Operatorler\obj\Debug\net8.0\Lesson07_Operatorler.pdb
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\30-09-2024\Lesson07_Operatorler\obj\Debug\net8.0\Lesson07_Operatorler.genruntimeconfig.cache
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\30-09-2024\Lesson07_Operatorler\obj\Debug\net8.0\ref\Lesson07_Operatorler.dll

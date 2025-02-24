@@ -1,0 +1,15 @@
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\01-10-2024\Lesson10_MetotlarAsiriYüklenme\bin\Debug\net8.0\Lesson10_MetotlarAsiriYüklenme.exe
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\01-10-2024\Lesson10_MetotlarAsiriYüklenme\bin\Debug\net8.0\Lesson10_MetotlarAsiriYüklenme.deps.json
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\01-10-2024\Lesson10_MetotlarAsiriYüklenme\bin\Debug\net8.0\Lesson10_MetotlarAsiriYüklenme.runtimeconfig.json
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\01-10-2024\Lesson10_MetotlarAsiriYüklenme\bin\Debug\net8.0\Lesson10_MetotlarAsiriYüklenme.dll
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\01-10-2024\Lesson10_MetotlarAsiriYüklenme\bin\Debug\net8.0\Lesson10_MetotlarAsiriYüklenme.pdb
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\01-10-2024\Lesson10_MetotlarAsiriYüklenme\obj\Debug\net8.0\Lesson10_MetotlarAsiriYüklenme.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\01-10-2024\Lesson10_MetotlarAsiriYüklenme\obj\Debug\net8.0\Lesson10_MetotlarAsiriYüklenme.AssemblyInfoInputs.cache
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\01-10-2024\Lesson10_MetotlarAsiriYüklenme\obj\Debug\net8.0\Lesson10_MetotlarAsiriYüklenme.AssemblyInfo.cs
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\01-10-2024\Lesson10_MetotlarAsiriYüklenme\obj\Debug\net8.0\Lesson10_MetotlarAsiriYüklenme.csproj.CoreCompileInputs.cache
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\01-10-2024\Lesson10_MetotlarAsiriYüklenme\obj\Debug\net8.0\Lesson10_MetotlarAsiriYüklenme.sourcelink.json
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\01-10-2024\Lesson10_MetotlarAsiriYüklenme\obj\Debug\net8.0\Lesson10_MetotlarAsiriYüklenme.dll
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\01-10-2024\Lesson10_MetotlarAsiriYüklenme\obj\Debug\net8.0\refint\Lesson10_MetotlarAsiriYüklenme.dll
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\01-10-2024\Lesson10_MetotlarAsiriYüklenme\obj\Debug\net8.0\Lesson10_MetotlarAsiriYüklenme.pdb
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\01-10-2024\Lesson10_MetotlarAsiriYüklenme\obj\Debug\net8.0\Lesson10_MetotlarAsiriYüklenme.genruntimeconfig.cache
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\01-10-2024\Lesson10_MetotlarAsiriYüklenme\obj\Debug\net8.0\ref\Lesson10_MetotlarAsiriYüklenme.dll

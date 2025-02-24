@@ -1,0 +1,15 @@
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\04-10-2024\Lesson17_Enums\bin\Debug\net8.0\Lesson17_Enums.exe
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\04-10-2024\Lesson17_Enums\bin\Debug\net8.0\Lesson17_Enums.deps.json
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\04-10-2024\Lesson17_Enums\bin\Debug\net8.0\Lesson17_Enums.runtimeconfig.json
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\04-10-2024\Lesson17_Enums\bin\Debug\net8.0\Lesson17_Enums.dll
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\04-10-2024\Lesson17_Enums\bin\Debug\net8.0\Lesson17_Enums.pdb
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\04-10-2024\Lesson17_Enums\obj\Debug\net8.0\Lesson17_Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\04-10-2024\Lesson17_Enums\obj\Debug\net8.0\Lesson17_Enums.AssemblyInfoInputs.cache
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\04-10-2024\Lesson17_Enums\obj\Debug\net8.0\Lesson17_Enums.AssemblyInfo.cs
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\04-10-2024\Lesson17_Enums\obj\Debug\net8.0\Lesson17_Enums.csproj.CoreCompileInputs.cache
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\04-10-2024\Lesson17_Enums\obj\Debug\net8.0\Lesson17_Enums.sourcelink.json
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\04-10-2024\Lesson17_Enums\obj\Debug\net8.0\Lesson17_Enums.dll
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\04-10-2024\Lesson17_Enums\obj\Debug\net8.0\refint\Lesson17_Enums.dll
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\04-10-2024\Lesson17_Enums\obj\Debug\net8.0\Lesson17_Enums.pdb
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\04-10-2024\Lesson17_Enums\obj\Debug\net8.0\Lesson17_Enums.genruntimeconfig.cache
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\04-10-2024\Lesson17_Enums\obj\Debug\net8.0\ref\Lesson17_Enums.dll

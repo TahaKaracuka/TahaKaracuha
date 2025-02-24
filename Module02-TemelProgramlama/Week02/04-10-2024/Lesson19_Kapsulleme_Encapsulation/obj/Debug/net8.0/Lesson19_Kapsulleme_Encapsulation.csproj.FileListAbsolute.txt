@@ -1,0 +1,15 @@
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\04-10-2024\Lesson19_Kapsulleme_Encapsulation\bin\Debug\net8.0\Lesson19_Kapsulleme_Encapsulation.exe
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\04-10-2024\Lesson19_Kapsulleme_Encapsulation\bin\Debug\net8.0\Lesson19_Kapsulleme_Encapsulation.deps.json
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\04-10-2024\Lesson19_Kapsulleme_Encapsulation\bin\Debug\net8.0\Lesson19_Kapsulleme_Encapsulation.runtimeconfig.json
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\04-10-2024\Lesson19_Kapsulleme_Encapsulation\bin\Debug\net8.0\Lesson19_Kapsulleme_Encapsulation.dll
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\04-10-2024\Lesson19_Kapsulleme_Encapsulation\bin\Debug\net8.0\Lesson19_Kapsulleme_Encapsulation.pdb
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\04-10-2024\Lesson19_Kapsulleme_Encapsulation\obj\Debug\net8.0\Lesson19_Kapsulleme_Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\04-10-2024\Lesson19_Kapsulleme_Encapsulation\obj\Debug\net8.0\Lesson19_Kapsulleme_Encapsulation.AssemblyInfoInputs.cache
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\04-10-2024\Lesson19_Kapsulleme_Encapsulation\obj\Debug\net8.0\Lesson19_Kapsulleme_Encapsulation.AssemblyInfo.cs
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\04-10-2024\Lesson19_Kapsulleme_Encapsulation\obj\Debug\net8.0\Lesson19_Kapsulleme_Encapsulation.csproj.CoreCompileInputs.cache
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\04-10-2024\Lesson19_Kapsulleme_Encapsulation\obj\Debug\net8.0\Lesson19_Kapsulleme_Encapsulation.sourcelink.json
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\04-10-2024\Lesson19_Kapsulleme_Encapsulation\obj\Debug\net8.0\Lesson19_Kapsulleme_Encapsulation.dll
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\04-10-2024\Lesson19_Kapsulleme_Encapsulation\obj\Debug\net8.0\refint\Lesson19_Kapsulleme_Encapsulation.dll
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\04-10-2024\Lesson19_Kapsulleme_Encapsulation\obj\Debug\net8.0\Lesson19_Kapsulleme_Encapsulation.pdb
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\04-10-2024\Lesson19_Kapsulleme_Encapsulation\obj\Debug\net8.0\Lesson19_Kapsulleme_Encapsulation.genruntimeconfig.cache
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\04-10-2024\Lesson19_Kapsulleme_Encapsulation\obj\Debug\net8.0\ref\Lesson19_Kapsulleme_Encapsulation.dll

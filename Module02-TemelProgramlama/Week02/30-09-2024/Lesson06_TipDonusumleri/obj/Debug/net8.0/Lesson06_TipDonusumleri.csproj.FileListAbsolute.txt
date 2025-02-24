@@ -1,0 +1,15 @@
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\30-09-2024\Lesson06_TipDonusumleri\bin\Debug\net8.0\Lesson06_TipDonusumleri.exe
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\30-09-2024\Lesson06_TipDonusumleri\bin\Debug\net8.0\Lesson06_TipDonusumleri.deps.json
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\30-09-2024\Lesson06_TipDonusumleri\bin\Debug\net8.0\Lesson06_TipDonusumleri.runtimeconfig.json
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\30-09-2024\Lesson06_TipDonusumleri\bin\Debug\net8.0\Lesson06_TipDonusumleri.dll
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\30-09-2024\Lesson06_TipDonusumleri\bin\Debug\net8.0\Lesson06_TipDonusumleri.pdb
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\30-09-2024\Lesson06_TipDonusumleri\obj\Debug\net8.0\Lesson06_TipDonusumleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\30-09-2024\Lesson06_TipDonusumleri\obj\Debug\net8.0\Lesson06_TipDonusumleri.AssemblyInfoInputs.cache
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\30-09-2024\Lesson06_TipDonusumleri\obj\Debug\net8.0\Lesson06_TipDonusumleri.AssemblyInfo.cs
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\30-09-2024\Lesson06_TipDonusumleri\obj\Debug\net8.0\Lesson06_TipDonusumleri.csproj.CoreCompileInputs.cache
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\30-09-2024\Lesson06_TipDonusumleri\obj\Debug\net8.0\Lesson06_TipDonusumleri.sourcelink.json
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\30-09-2024\Lesson06_TipDonusumleri\obj\Debug\net8.0\Lesson06_TipDonusumleri.dll
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\30-09-2024\Lesson06_TipDonusumleri\obj\Debug\net8.0\refint\Lesson06_TipDonusumleri.dll
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\30-09-2024\Lesson06_TipDonusumleri\obj\Debug\net8.0\Lesson06_TipDonusumleri.pdb
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\30-09-2024\Lesson06_TipDonusumleri\obj\Debug\net8.0\Lesson06_TipDonusumleri.genruntimeconfig.cache
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\30-09-2024\Lesson06_TipDonusumleri\obj\Debug\net8.0\ref\Lesson06_TipDonusumleri.dll

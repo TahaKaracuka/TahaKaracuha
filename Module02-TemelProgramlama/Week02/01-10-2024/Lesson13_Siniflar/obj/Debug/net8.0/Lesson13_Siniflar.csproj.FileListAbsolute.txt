@@ -1,0 +1,15 @@
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\01-10-2024\Lesson13_Siniflar\bin\Debug\net8.0\Lesson13_Siniflar.exe
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\01-10-2024\Lesson13_Siniflar\bin\Debug\net8.0\Lesson13_Siniflar.deps.json
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\01-10-2024\Lesson13_Siniflar\bin\Debug\net8.0\Lesson13_Siniflar.runtimeconfig.json
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\01-10-2024\Lesson13_Siniflar\bin\Debug\net8.0\Lesson13_Siniflar.dll
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\01-10-2024\Lesson13_Siniflar\bin\Debug\net8.0\Lesson13_Siniflar.pdb
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\01-10-2024\Lesson13_Siniflar\obj\Debug\net8.0\Lesson13_Siniflar.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\01-10-2024\Lesson13_Siniflar\obj\Debug\net8.0\Lesson13_Siniflar.AssemblyInfoInputs.cache
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\01-10-2024\Lesson13_Siniflar\obj\Debug\net8.0\Lesson13_Siniflar.AssemblyInfo.cs
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\01-10-2024\Lesson13_Siniflar\obj\Debug\net8.0\Lesson13_Siniflar.csproj.CoreCompileInputs.cache
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\01-10-2024\Lesson13_Siniflar\obj\Debug\net8.0\Lesson13_Siniflar.sourcelink.json
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\01-10-2024\Lesson13_Siniflar\obj\Debug\net8.0\Lesson13_Siniflar.dll
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\01-10-2024\Lesson13_Siniflar\obj\Debug\net8.0\refint\Lesson13_Siniflar.dll
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\01-10-2024\Lesson13_Siniflar\obj\Debug\net8.0\Lesson13_Siniflar.pdb
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\01-10-2024\Lesson13_Siniflar\obj\Debug\net8.0\Lesson13_Siniflar.genruntimeconfig.cache
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\01-10-2024\Lesson13_Siniflar\obj\Debug\net8.0\ref\Lesson13_Siniflar.dll

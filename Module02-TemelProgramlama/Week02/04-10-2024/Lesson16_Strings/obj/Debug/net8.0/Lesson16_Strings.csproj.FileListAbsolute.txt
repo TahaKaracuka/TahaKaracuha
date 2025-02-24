@@ -1,0 +1,15 @@
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\04-10-2024\Lesson16_Strings\bin\Debug\net8.0\Lesson16_Strings.exe
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\04-10-2024\Lesson16_Strings\bin\Debug\net8.0\Lesson16_Strings.deps.json
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\04-10-2024\Lesson16_Strings\bin\Debug\net8.0\Lesson16_Strings.runtimeconfig.json
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\04-10-2024\Lesson16_Strings\bin\Debug\net8.0\Lesson16_Strings.dll
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\04-10-2024\Lesson16_Strings\bin\Debug\net8.0\Lesson16_Strings.pdb
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\04-10-2024\Lesson16_Strings\obj\Debug\net8.0\Lesson16_Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\04-10-2024\Lesson16_Strings\obj\Debug\net8.0\Lesson16_Strings.AssemblyInfoInputs.cache
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\04-10-2024\Lesson16_Strings\obj\Debug\net8.0\Lesson16_Strings.AssemblyInfo.cs
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\04-10-2024\Lesson16_Strings\obj\Debug\net8.0\Lesson16_Strings.csproj.CoreCompileInputs.cache
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\04-10-2024\Lesson16_Strings\obj\Debug\net8.0\Lesson16_Strings.sourcelink.json
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\04-10-2024\Lesson16_Strings\obj\Debug\net8.0\Lesson16_Strings.dll
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\04-10-2024\Lesson16_Strings\obj\Debug\net8.0\refint\Lesson16_Strings.dll
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\04-10-2024\Lesson16_Strings\obj\Debug\net8.0\Lesson16_Strings.pdb
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\04-10-2024\Lesson16_Strings\obj\Debug\net8.0\Lesson16_Strings.genruntimeconfig.cache
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\04-10-2024\Lesson16_Strings\obj\Debug\net8.0\ref\Lesson16_Strings.dll

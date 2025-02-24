@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GitHub\\InfoTech-MSCD-ENE-6\\Module02-TemelProgramlama\\Week02\\01-10-2024\\Lesson14_SiniflarMetotlar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A94782-FBD0-458D-AFAC-16DA782B7536}|Lesson14_SiniflarMetotlar.csproj|c:\\github\\infotech-mscd-ene-6\\module02-temelprogramlama\\week02\\01-10-2024\\lesson14_siniflarmetotlar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A94782-FBD0-458D-AFAC-16DA782B7536}|Lesson14_SiniflarMetotlar.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A94782-FBD0-458D-AFAC-16DA782B7536}|Lesson14_SiniflarMetotlar.csproj|c:\\github\\infotech-mscd-ene-6\\module02-temelprogramlama\\week02\\01-10-2024\\lesson14_siniflarmetotlar\\members\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A94782-FBD0-458D-AFAC-16DA782B7536}|Lesson14_SiniflarMetotlar.csproj|solutionrelative:members\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A94782-FBD0-458D-AFAC-16DA782B7536}|Lesson14_SiniflarMetotlar.csproj|c:\\github\\infotech-mscd-ene-6\\module02-temelprogramlama\\week02\\01-10-2024\\lesson14_siniflarmetotlar\\shopping\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A94782-FBD0-458D-AFAC-16DA782B7536}|Lesson14_SiniflarMetotlar.csproj|solutionrelative:shopping\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A94782-FBD0-458D-AFAC-16DA782B7536}|Lesson14_SiniflarMetotlar.csproj|c:\\github\\infotech-mscd-ene-6\\module02-temelprogramlama\\week02\\01-10-2024\\lesson14_siniflarmetotlar\\shopping\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A94782-FBD0-458D-AFAC-16DA782B7536}|Lesson14_SiniflarMetotlar.csproj|solutionrelative:shopping\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\GitHub\\InfoTech-MSCD-ENE-6\\Module02-TemelProgramlama\\Week02\\01-10-2024\\Lesson14_SiniflarMetotlar\\Members\\Role.cs",
+              "RelativeDocumentMoniker": "Members\\Role.cs",
+              "ToolTip": "C:\\GitHub\\InfoTech-MSCD-ENE-6\\Module02-TemelProgramlama\\Week02\\01-10-2024\\Lesson14_SiniflarMetotlar\\Members\\Role.cs",
+              "RelativeToolTip": "Members\\Role.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA0wA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T11:46:46.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\GitHub\\InfoTech-MSCD-ENE-6\\Module02-TemelProgramlama\\Week02\\01-10-2024\\Lesson14_SiniflarMetotlar\\Shopping\\Product.cs",
+              "RelativeDocumentMoniker": "Shopping\\Product.cs",
+              "ToolTip": "C:\\GitHub\\InfoTech-MSCD-ENE-6\\Module02-TemelProgramlama\\Week02\\01-10-2024\\Lesson14_SiniflarMetotlar\\Shopping\\Product.cs",
+              "RelativeToolTip": "Shopping\\Product.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAUwCIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T11:15:41.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\GitHub\\InfoTech-MSCD-ENE-6\\Module02-TemelProgramlama\\Week02\\01-10-2024\\Lesson14_SiniflarMetotlar\\Shopping\\Category.cs",
+              "RelativeDocumentMoniker": "Shopping\\Category.cs",
+              "ToolTip": "C:\\GitHub\\InfoTech-MSCD-ENE-6\\Module02-TemelProgramlama\\Week02\\01-10-2024\\Lesson14_SiniflarMetotlar\\Shopping\\Category.cs",
+              "RelativeToolTip": "Shopping\\Category.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAIAxwAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T11:10:00.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GitHub\\InfoTech-MSCD-ENE-6\\Module02-TemelProgramlama\\Week02\\01-10-2024\\Lesson14_SiniflarMetotlar\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\GitHub\\InfoTech-MSCD-ENE-6\\Module02-TemelProgramlama\\Week02\\01-10-2024\\Lesson14_SiniflarMetotlar\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwBEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T11:03:44.092Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

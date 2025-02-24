@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Lesson ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">True</RestoreSuccess>
+    <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
+    <LessonAssetsFile Condition=" '$(LessonAssetsFile)' == '' ">$(MSBuildThisFileDirectory)Lesson.assets.json</LessonAssetsFile>
+    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\EnginNiyazi\.nuget\packages\</NuGetPackageFolders>
+    <NuGetLessonStyle Condition=" '$(NuGetLessonStyle)' == '' ">PackageReference</NuGetLessonStyle>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.11.0</NuGetToolVersion>
+  </PropertyGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <SourceRoot Include="C:\Users\EnginNiyazi\.nuget\packages\" />
+  </ItemGroup>
+</Lesson>

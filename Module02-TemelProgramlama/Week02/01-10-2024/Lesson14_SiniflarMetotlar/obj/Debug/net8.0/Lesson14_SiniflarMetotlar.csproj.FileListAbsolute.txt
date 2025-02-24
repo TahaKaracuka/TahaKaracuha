@@ -1,0 +1,15 @@
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\01-10-2024\Lesson14_SiniflarMetotlar\bin\Debug\net8.0\Lesson14_SiniflarMetotlar.exe
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\01-10-2024\Lesson14_SiniflarMetotlar\bin\Debug\net8.0\Lesson14_SiniflarMetotlar.deps.json
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\01-10-2024\Lesson14_SiniflarMetotlar\bin\Debug\net8.0\Lesson14_SiniflarMetotlar.runtimeconfig.json
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\01-10-2024\Lesson14_SiniflarMetotlar\bin\Debug\net8.0\Lesson14_SiniflarMetotlar.dll
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\01-10-2024\Lesson14_SiniflarMetotlar\bin\Debug\net8.0\Lesson14_SiniflarMetotlar.pdb
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\01-10-2024\Lesson14_SiniflarMetotlar\obj\Debug\net8.0\Lesson14_SiniflarMetotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\01-10-2024\Lesson14_SiniflarMetotlar\obj\Debug\net8.0\Lesson14_SiniflarMetotlar.AssemblyInfoInputs.cache
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\01-10-2024\Lesson14_SiniflarMetotlar\obj\Debug\net8.0\Lesson14_SiniflarMetotlar.AssemblyInfo.cs
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\01-10-2024\Lesson14_SiniflarMetotlar\obj\Debug\net8.0\Lesson14_SiniflarMetotlar.csproj.CoreCompileInputs.cache
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\01-10-2024\Lesson14_SiniflarMetotlar\obj\Debug\net8.0\Lesson14_SiniflarMetotlar.sourcelink.json
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\01-10-2024\Lesson14_SiniflarMetotlar\obj\Debug\net8.0\Lesson14_SiniflarMetotlar.dll
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\01-10-2024\Lesson14_SiniflarMetotlar\obj\Debug\net8.0\refint\Lesson14_SiniflarMetotlar.dll
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\01-10-2024\Lesson14_SiniflarMetotlar\obj\Debug\net8.0\Lesson14_SiniflarMetotlar.pdb
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\01-10-2024\Lesson14_SiniflarMetotlar\obj\Debug\net8.0\Lesson14_SiniflarMetotlar.genruntimeconfig.cache
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\01-10-2024\Lesson14_SiniflarMetotlar\obj\Debug\net8.0\ref\Lesson14_SiniflarMetotlar.dll

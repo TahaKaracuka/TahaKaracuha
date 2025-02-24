@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Lesson("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson04_VeriYapilariveDegiskenler", "Lesson04_VeriYapilariveDegiskenler.csproj", "{B186E6CA-46EB-4BCD-996D-23870C1E68D5}"
+EndLesson
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(LessonConfigurationPlatforms) = postSolution
+		{B186E6CA-46EB-4BCD-996D-23870C1E68D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B186E6CA-46EB-4BCD-996D-23870C1E68D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B186E6CA-46EB-4BCD-996D-23870C1E68D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B186E6CA-46EB-4BCD-996D-23870C1E68D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5189329D-D914-452C-A93A-0D34DDFD9F59}
+	EndGlobalSection
+EndGlobal

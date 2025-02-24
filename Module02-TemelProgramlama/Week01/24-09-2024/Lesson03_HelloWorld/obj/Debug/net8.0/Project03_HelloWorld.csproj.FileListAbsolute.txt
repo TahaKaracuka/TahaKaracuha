@@ -1,0 +1,15 @@
+C:\GitHub\MSCD6-Dersler\Module02-TemelProgramlama\Week01\24-09-2024\Lesson03_HelloWorld\bin\Debug\net8.0\Lesson03_HelloWorld.exe
+C:\GitHub\MSCD6-Dersler\Module02-TemelProgramlama\Week01\24-09-2024\Lesson03_HelloWorld\bin\Debug\net8.0\Lesson03_HelloWorld.deps.json
+C:\GitHub\MSCD6-Dersler\Module02-TemelProgramlama\Week01\24-09-2024\Lesson03_HelloWorld\bin\Debug\net8.0\Lesson03_HelloWorld.runtimeconfig.json
+C:\GitHub\MSCD6-Dersler\Module02-TemelProgramlama\Week01\24-09-2024\Lesson03_HelloWorld\bin\Debug\net8.0\Lesson03_HelloWorld.dll
+C:\GitHub\MSCD6-Dersler\Module02-TemelProgramlama\Week01\24-09-2024\Lesson03_HelloWorld\bin\Debug\net8.0\Lesson03_HelloWorld.pdb
+C:\GitHub\MSCD6-Dersler\Module02-TemelProgramlama\Week01\24-09-2024\Lesson03_HelloWorld\obj\Debug\net8.0\Lesson03_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\MSCD6-Dersler\Module02-TemelProgramlama\Week01\24-09-2024\Lesson03_HelloWorld\obj\Debug\net8.0\Lesson03_HelloWorld.AssemblyInfoInputs.cache
+C:\GitHub\MSCD6-Dersler\Module02-TemelProgramlama\Week01\24-09-2024\Lesson03_HelloWorld\obj\Debug\net8.0\Lesson03_HelloWorld.AssemblyInfo.cs
+C:\GitHub\MSCD6-Dersler\Module02-TemelProgramlama\Week01\24-09-2024\Lesson03_HelloWorld\obj\Debug\net8.0\Lesson03_HelloWorld.csproj.CoreCompileInputs.cache
+C:\GitHub\MSCD6-Dersler\Module02-TemelProgramlama\Week01\24-09-2024\Lesson03_HelloWorld\obj\Debug\net8.0\Lesson03_HelloWorld.sourcelink.json
+C:\GitHub\MSCD6-Dersler\Module02-TemelProgramlama\Week01\24-09-2024\Lesson03_HelloWorld\obj\Debug\net8.0\Lesson03_HelloWorld.dll
+C:\GitHub\MSCD6-Dersler\Module02-TemelProgramlama\Week01\24-09-2024\Lesson03_HelloWorld\obj\Debug\net8.0\refint\Lesson03_HelloWorld.dll
+C:\GitHub\MSCD6-Dersler\Module02-TemelProgramlama\Week01\24-09-2024\Lesson03_HelloWorld\obj\Debug\net8.0\Lesson03_HelloWorld.pdb
+C:\GitHub\MSCD6-Dersler\Module02-TemelProgramlama\Week01\24-09-2024\Lesson03_HelloWorld\obj\Debug\net8.0\Lesson03_HelloWorld.genruntimeconfig.cache
+C:\GitHub\MSCD6-Dersler\Module02-TemelProgramlama\Week01\24-09-2024\Lesson03_HelloWorld\obj\Debug\net8.0\ref\Lesson03_HelloWorld.dll

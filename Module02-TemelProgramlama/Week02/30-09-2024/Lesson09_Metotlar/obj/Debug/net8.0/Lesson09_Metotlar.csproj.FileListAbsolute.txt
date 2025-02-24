@@ -1,0 +1,15 @@
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\30-09-2024\Lesson09_Metotlar\bin\Debug\net8.0\Lesson09_Metotlar.exe
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\30-09-2024\Lesson09_Metotlar\bin\Debug\net8.0\Lesson09_Metotlar.deps.json
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\30-09-2024\Lesson09_Metotlar\bin\Debug\net8.0\Lesson09_Metotlar.runtimeconfig.json
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\30-09-2024\Lesson09_Metotlar\bin\Debug\net8.0\Lesson09_Metotlar.dll
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\30-09-2024\Lesson09_Metotlar\bin\Debug\net8.0\Lesson09_Metotlar.pdb
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\30-09-2024\Lesson09_Metotlar\obj\Debug\net8.0\Lesson09_Metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\30-09-2024\Lesson09_Metotlar\obj\Debug\net8.0\Lesson09_Metotlar.AssemblyInfoInputs.cache
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\30-09-2024\Lesson09_Metotlar\obj\Debug\net8.0\Lesson09_Metotlar.AssemblyInfo.cs
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\30-09-2024\Lesson09_Metotlar\obj\Debug\net8.0\Lesson09_Metotlar.csproj.CoreCompileInputs.cache
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\30-09-2024\Lesson09_Metotlar\obj\Debug\net8.0\Lesson09_Metotlar.sourcelink.json
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\30-09-2024\Lesson09_Metotlar\obj\Debug\net8.0\Lesson09_Metotlar.dll
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\30-09-2024\Lesson09_Metotlar\obj\Debug\net8.0\refint\Lesson09_Metotlar.dll
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\30-09-2024\Lesson09_Metotlar\obj\Debug\net8.0\Lesson09_Metotlar.pdb
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\30-09-2024\Lesson09_Metotlar\obj\Debug\net8.0\Lesson09_Metotlar.genruntimeconfig.cache
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\30-09-2024\Lesson09_Metotlar\obj\Debug\net8.0\ref\Lesson09_Metotlar.dll

@@ -1,0 +1,15 @@
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\30-09-2024\Lesson08_KosulluYapilar\bin\Debug\net8.0\Lesson08_KosulluYapilar.exe
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\30-09-2024\Lesson08_KosulluYapilar\bin\Debug\net8.0\Lesson08_KosulluYapilar.deps.json
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\30-09-2024\Lesson08_KosulluYapilar\bin\Debug\net8.0\Lesson08_KosulluYapilar.runtimeconfig.json
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\30-09-2024\Lesson08_KosulluYapilar\bin\Debug\net8.0\Lesson08_KosulluYapilar.dll
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\30-09-2024\Lesson08_KosulluYapilar\bin\Debug\net8.0\Lesson08_KosulluYapilar.pdb
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\30-09-2024\Lesson08_KosulluYapilar\obj\Debug\net8.0\Lesson08_KosulluYapilar.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\30-09-2024\Lesson08_KosulluYapilar\obj\Debug\net8.0\Lesson08_KosulluYapilar.AssemblyInfoInputs.cache
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\30-09-2024\Lesson08_KosulluYapilar\obj\Debug\net8.0\Lesson08_KosulluYapilar.AssemblyInfo.cs
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\30-09-2024\Lesson08_KosulluYapilar\obj\Debug\net8.0\Lesson08_KosulluYapilar.csproj.CoreCompileInputs.cache
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\30-09-2024\Lesson08_KosulluYapilar\obj\Debug\net8.0\Lesson08_KosulluYapilar.sourcelink.json
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\30-09-2024\Lesson08_KosulluYapilar\obj\Debug\net8.0\Lesson08_KosulluYapilar.dll
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\30-09-2024\Lesson08_KosulluYapilar\obj\Debug\net8.0\refint\Lesson08_KosulluYapilar.dll
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\30-09-2024\Lesson08_KosulluYapilar\obj\Debug\net8.0\Lesson08_KosulluYapilar.pdb
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\30-09-2024\Lesson08_KosulluYapilar\obj\Debug\net8.0\Lesson08_KosulluYapilar.genruntimeconfig.cache
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\30-09-2024\Lesson08_KosulluYapilar\obj\Debug\net8.0\ref\Lesson08_KosulluYapilar.dll

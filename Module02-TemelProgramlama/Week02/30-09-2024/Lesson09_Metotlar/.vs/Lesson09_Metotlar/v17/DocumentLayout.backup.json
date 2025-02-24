@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GitHub\\InfoTech-MSCD-ENE-6\\Module02-TemelProgramlama\\Week02\\30-09-2024\\Lesson09_Metotlar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F141FD1-C38A-478D-A991-1B6BA52FB701}|Lesson09_Metotlar.csproj|c:\\github\\infotech-mscd-ene-6\\module02-temelprogramlama\\week02\\30-09-2024\\lesson09_metotlar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F141FD1-C38A-478D-A991-1B6BA52FB701}|Lesson09_Metotlar.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GitHub\\InfoTech-MSCD-ENE-6\\Module02-TemelProgramlama\\Week02\\30-09-2024\\Lesson09_Metotlar\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\GitHub\\InfoTech-MSCD-ENE-6\\Module02-TemelProgramlama\\Week02\\30-09-2024\\Lesson09_Metotlar\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAUwDIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T11:15:35.124Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

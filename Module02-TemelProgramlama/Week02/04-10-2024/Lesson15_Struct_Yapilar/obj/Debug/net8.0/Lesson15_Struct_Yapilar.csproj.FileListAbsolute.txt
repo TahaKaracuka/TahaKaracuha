@@ -1,0 +1,15 @@
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\04-10-2024\Lesson15_Struct_Yapilar\bin\Debug\net8.0\Lesson15_Struct_Yapilar.exe
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\04-10-2024\Lesson15_Struct_Yapilar\bin\Debug\net8.0\Lesson15_Struct_Yapilar.deps.json
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\04-10-2024\Lesson15_Struct_Yapilar\bin\Debug\net8.0\Lesson15_Struct_Yapilar.runtimeconfig.json
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\04-10-2024\Lesson15_Struct_Yapilar\bin\Debug\net8.0\Lesson15_Struct_Yapilar.dll
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\04-10-2024\Lesson15_Struct_Yapilar\bin\Debug\net8.0\Lesson15_Struct_Yapilar.pdb
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\04-10-2024\Lesson15_Struct_Yapilar\obj\Debug\net8.0\Lesson15_Struct_Yapilar.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\04-10-2024\Lesson15_Struct_Yapilar\obj\Debug\net8.0\Lesson15_Struct_Yapilar.AssemblyInfoInputs.cache
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\04-10-2024\Lesson15_Struct_Yapilar\obj\Debug\net8.0\Lesson15_Struct_Yapilar.AssemblyInfo.cs
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\04-10-2024\Lesson15_Struct_Yapilar\obj\Debug\net8.0\Lesson15_Struct_Yapilar.csproj.CoreCompileInputs.cache
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\04-10-2024\Lesson15_Struct_Yapilar\obj\Debug\net8.0\Lesson15_Struct_Yapilar.sourcelink.json
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\04-10-2024\Lesson15_Struct_Yapilar\obj\Debug\net8.0\Lesson15_Struct_Yapilar.dll
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\04-10-2024\Lesson15_Struct_Yapilar\obj\Debug\net8.0\refint\Lesson15_Struct_Yapilar.dll
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\04-10-2024\Lesson15_Struct_Yapilar\obj\Debug\net8.0\Lesson15_Struct_Yapilar.pdb
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\04-10-2024\Lesson15_Struct_Yapilar\obj\Debug\net8.0\Lesson15_Struct_Yapilar.genruntimeconfig.cache
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\04-10-2024\Lesson15_Struct_Yapilar\obj\Debug\net8.0\ref\Lesson15_Struct_Yapilar.dll

@@ -1,0 +1,15 @@
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\01-10-2024\Lesson11_Diziler\bin\Debug\net8.0\Lesson11_Diziler.exe
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\01-10-2024\Lesson11_Diziler\bin\Debug\net8.0\Lesson11_Diziler.deps.json
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\01-10-2024\Lesson11_Diziler\bin\Debug\net8.0\Lesson11_Diziler.runtimeconfig.json
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\01-10-2024\Lesson11_Diziler\bin\Debug\net8.0\Lesson11_Diziler.dll
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\01-10-2024\Lesson11_Diziler\bin\Debug\net8.0\Lesson11_Diziler.pdb
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\01-10-2024\Lesson11_Diziler\obj\Debug\net8.0\Lesson11_Diziler.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\01-10-2024\Lesson11_Diziler\obj\Debug\net8.0\Lesson11_Diziler.AssemblyInfoInputs.cache
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\01-10-2024\Lesson11_Diziler\obj\Debug\net8.0\Lesson11_Diziler.AssemblyInfo.cs
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\01-10-2024\Lesson11_Diziler\obj\Debug\net8.0\Lesson11_Diziler.csproj.CoreCompileInputs.cache
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\01-10-2024\Lesson11_Diziler\obj\Debug\net8.0\Lesson11_Diziler.sourcelink.json
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\01-10-2024\Lesson11_Diziler\obj\Debug\net8.0\Lesson11_Diziler.dll
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\01-10-2024\Lesson11_Diziler\obj\Debug\net8.0\refint\Lesson11_Diziler.dll
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\01-10-2024\Lesson11_Diziler\obj\Debug\net8.0\Lesson11_Diziler.pdb
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\01-10-2024\Lesson11_Diziler\obj\Debug\net8.0\Lesson11_Diziler.genruntimeconfig.cache
+C:\GitHub\InfoTech-MSCD-ENE-6\Module02-TemelProgramlama\Week02\01-10-2024\Lesson11_Diziler\obj\Debug\net8.0\ref\Lesson11_Diziler.dll
