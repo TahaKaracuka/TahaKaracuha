@@ -1,0 +1,14 @@
+﻿@{
+    Contact contact = ViewBag.ContactInfo;
+}
+<h1 class="display-6 text-primary">İletişim</h1>
+<div class="row">
+    <div class="col-md-6">
+        @Html.Raw(contact.GoogleMap)
+    </div>
+    <div class="col-md-6">
+        <div>@contact.Email</div>
+        <div>@contact.PhoneNumber</div>
+        <div>@contact.Address</div>
+    </div>
+</div>
